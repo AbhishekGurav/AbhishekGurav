@@ -1,5 +1,5 @@
 <h1>Hi, I'm Abhishek 👋</h1>
-<p>A passionate web developer from India.</p>
+<p>A passionate frontend engineer from India.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
